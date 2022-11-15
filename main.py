@@ -1,9 +1,9 @@
 import random
 from importlib.metadata import distribution
+from turtle import st
 
 import numpy as np
 from collections import Counter
-import scipy
 
 import math
 import Table
